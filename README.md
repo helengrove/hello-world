@@ -1,2 +1,3 @@
 # hello-world
 Or should I say hello-github...
+This is my forray into understanding github
